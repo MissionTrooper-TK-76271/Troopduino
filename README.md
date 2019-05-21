@@ -1,5 +1,5 @@
 # Troopduino
-Troopduino Code and Voice Changer/Sound Effects Board
+Troopduino Voice Changer and Sound Effects Board with Code
 
 BOARD https://github.com/BipeFlyer/Troopduino-Board
 
