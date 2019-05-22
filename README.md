@@ -1,6 +1,10 @@
 # Troopduino
 Troopduino Voice Changer and Sound Effects Board with Code
 
+BOARD https://github.com/BipeFlyer/Troopduino-Board
+
+CODE https://github.com/BipeFlyer/Troopduino-Code
+
 This project uses an Arduino nano to create clicks and static when talking.  
 Features:
 <ul>
@@ -16,8 +20,5 @@ Features:
   <li>Sound Effects</li>
   <li>Looping Background Effects</li>
 </ul>
-, PTT (Push to Talk) mode, or voice activation mode
 
-BOARD https://github.com/BipeFlyer/Troopduino-Board
 
-CODE https://github.com/BipeFlyer/Troopduino-Code
